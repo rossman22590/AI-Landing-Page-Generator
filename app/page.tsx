@@ -356,7 +356,61 @@ export default function Chat() {
 	  				    <path fill="#1d9bf0" d="M114.896 37.888c.078 1.129.078 2.257.078 3.396c0 34.7-26.417 74.72-74.72 74.72v-.02A74.343 74.343 0 0 1 0 104.21c2.075.25 4.16.375 6.25.38a52.732 52.732 0 0 0 32.615-11.263A26.294 26.294 0 0 1 14.331 75.09c3.937.76 7.993.603 11.857-.453c-12.252-2.475-21.066-13.239-21.066-25.74v-.333a26.094 26.094 0 0 0 11.919 3.287C5.5 44.139 1.945 28.788 8.913 16.787a74.535 74.535 0 0 0 54.122 27.435a26.277 26.277 0 0 1 7.598-25.09c10.577-9.943 27.212-9.433 37.154 1.139a52.696 52.696 0 0 0 16.677-6.376A26.359 26.359 0 0 1 112.92 28.42A52.227 52.227 0 0 0 128 24.285a53.35 53.35 0 0 1-13.104 13.603z"/>
 	  				</svg>
 	  			</a>
-
+	  			<a href="https://aicodeconvert.com" className="text-black cursor-pointer rounded-full mr-4">
+	  				<div 
+	  					className="items-center flex text-sm font-medium justify-center py-2 px-4 border rounded-full">
+	  					<svg width="20" height="20" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+	  					    <path fill="#3b82f6" d="M516 673c0 4.4 3.4 8 7.5 8h185c4.1 0 7.5-3.6 7.5-8v-48c0-4.4-3.4-8-7.5-8h-185c-4.1 0-7.5 3.6-7.5 8v48zm-194.9 6.1l192-161c3.8-3.2 3.8-9.1 0-12.3l-192-160.9A7.95 7.95 0 0 0 308 351v62.7c0 2.4 1 4.6 2.9 6.1L420.7 512l-109.8 92.2a8.1 8.1 0 0 0-2.9 6.1V673c0 6.8 7.9 10.5 13.1 6.1zM880 112H144c-17.7 0-32 14.3-32 32v736c0 17.7 14.3 32 32 32h736c17.7 0 32-14.3 32-32V144c0-17.7-14.3-32-32-32zm-40 728H184V184h656v656z"/>
+	  					</svg>
+	  					<p className="ml-2">AICodeConvert</p>
+	  				</div>
+	  			</a>
+	  		  </div>
+	  		  <div>
+	  			Mail: enqueueit@gmail.com
+	  		  </div>
+	  		</div>
+	  		<div id="friendlyLink" className="mt-4">
+	  			<div className="text-2xl">Friendly Link</div>
+	  			<div className="flex justify-start items-center mb-2 space-y-2 mt-2 flex-wrap">
+					<a href="https://aicomicfactory.com/" className="text-black cursor-pointer rounded-full mr-4">
+						<div 
+							className="items-center flex text-sm font-medium justify-center py-2 px-4 border rounded-full">
+							<p className="">AI Comic Factory</p>
+						</div>
+					</a>
+					<a href="https://www.aipage.dev" className="text-black cursor-pointer rounded-full mr-4">
+						<div 
+							className="items-center flex text-sm font-medium justify-center py-2 px-4 border rounded-full">
+							<p className="">AIPage.dev </p>
+						</div>
+					</a>
+					<a href="http://www.cutout.pro/" className="text-black cursor-pointer rounded-full mr-4">
+						<div 
+							className="items-center flex text-sm font-medium justify-center py-2 px-4 border rounded-full">
+							<p className="">AI Photo Editor</p>
+						</div>
+					</a>
+	  				<a href="https://twidropper.com" className="text-black cursor-pointer rounded-full mr-4">
+	  					<div 
+	  						className="items-center flex text-sm font-medium justify-center py-2 px-4 border rounded-full">
+	  						<p className="">Twitter動画保存</p>
+	  					</div>
+	  				</a>
+	  				<a href="https://randomlettergenerator.org" className="text-black cursor-pointer rounded-full mr-4">
+	  					<div 
+	  						className="items-center flex text-sm font-medium justify-center py-2 px-4 border rounded-full">
+	  						<p className="">Random Letter Generator</p>
+	  					</div>
+	  				</a>
+	  				<a href="https://crontab.online" className="text-black cursor-pointer rounded-full mr-4">
+	  					<div 
+	  						className="items-center flex text-sm font-medium justify-center py-2 px-4 border rounded-full">
+	  						<p className="">Crontab Online Generator</p>
+	  					</div>
+	  				</a>
+	  			</div>
+	  		</div>
 	  </div>
     </div>
   );
