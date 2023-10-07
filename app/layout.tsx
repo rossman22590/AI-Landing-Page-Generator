@@ -24,7 +24,7 @@ export default function RootLayout({
   return (
     <html lang="en">
 	  <head>
-		 <title>AI Landing Page Generator - Free Landing Page Generator</title>
+		 <title>AI Landing Page Generator - AI Tutor Premium</title>
 		 <meta name="description" content="Free AI Powered Landing Page Generator. Create landing page easily with AI."/>
 		 <meta name="viewport" content="width=device-width, initial-scale=1" />
 		 <meta name="keywords" content="AI Landing Page Generator,Free,OnLine" />
