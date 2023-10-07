@@ -197,7 +197,7 @@ export default function Chat() {
 			</h1>
           </div>
 		  <div className="flex items-center hidden md:block lg:block text-black">
-		      <a href="#contact" className="text font-semibold mr-1 md:mr-4 lg:mr-4">Contact</a>
+		      <a href="https://account.myapps.ai" className="text font-semibold mr-1 md:mr-4 lg:mr-4">Dashboard</a>
 		  </div>
         </div>
       </header>
